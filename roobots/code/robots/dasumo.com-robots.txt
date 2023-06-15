@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /buscar/
+Disallow: /img/
+Disallow: /blog/wp-login.php
+Disallow: /blog/wp-admin/
+Disallow: /blog/wp-includes/
+Disallow: /blog/wp-content/
+Disallow: /url/
+Allow: /

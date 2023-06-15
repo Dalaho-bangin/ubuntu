@@ -1,0 +1,6 @@
+#
+# robots.txt for Gongchang
+#
+
+User-agent: *
+Disallow: /*?*

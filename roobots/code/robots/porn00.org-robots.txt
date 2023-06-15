@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin
+
+Sitemap: http://www.porn00.org/sitemap.xml

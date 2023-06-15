@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /templates/
+Disallow: /Websources/
+Disallow: /websources/
+Sitemap: https://www.sharekhan.com/sitemap.xml
+Sitemap: https://www.sharekhan.com/stock-sitemap.xml

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /yonet/
+Disallow: /ekle/
+Disallow: /hit/
+Allow: /

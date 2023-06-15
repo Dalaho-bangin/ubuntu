@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /test.htm
+Disallow: /test.php
+Disallow: /plugins/feedback.php

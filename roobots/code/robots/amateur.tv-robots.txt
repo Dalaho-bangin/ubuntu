@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /users/
+Disallow: /ajax/
+Disallow: /cacheableAjax/
+Sitemap: /sitemap/

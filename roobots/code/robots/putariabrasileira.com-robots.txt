@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /embed.php
+
+Sitemap: http://www.putariabrasileira.com/sitemap_index.xml

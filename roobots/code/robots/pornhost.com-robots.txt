@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /*/report.html
+Disallow: /redirect.html
+Disallow: /embed/*
+
+User-agent: bingbot
+Crawl-delay: 3
+
+User-agent: BLEXBot
+Disallow: /

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /control/
+Disallow: /unsubscribe/
+Disallow: /robots.php
+Host: sport.ua

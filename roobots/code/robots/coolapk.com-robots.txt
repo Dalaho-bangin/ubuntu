@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /do
+Disallow: /load
+Disallow: /static
+Disallow: /ajax
+Disallow: /feed/
+Disallow: /u/

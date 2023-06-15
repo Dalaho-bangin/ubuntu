@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp/wp-admin/
+Disallow: /search
+
+Sitemap: https://androidayuda.com/sitemap_index.xml

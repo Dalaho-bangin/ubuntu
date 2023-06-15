@@ -1,0 +1,3 @@
+Sitemap: http://www.elheraldo.hn/csp/mediapool/sites/ElHeraldo/assets/csp/sitemaps/sitemap.csp
+User-agent: *
+Disallow: /*(offset)

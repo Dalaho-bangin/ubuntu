@@ -1,0 +1,24 @@
+User-agent: SnapPreviewBot
+Disallow: /
+
+User-agent: A6-Indexer
+Disallow: /
+
+User-agent: netseer
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: BuyerBase
+Disallow: /
+
+User-agent: BuyerBase User Agent
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: *
+Disallow: /store/create_cart/
+Disallow: /store/add_cart/

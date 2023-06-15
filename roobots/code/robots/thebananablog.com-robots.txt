@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /r/
+Disallow: /search/
+
+Sitemap: http://thebananablog.com/blog1/sitemap_index.xml

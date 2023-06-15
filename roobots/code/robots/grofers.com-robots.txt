@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /terms
+Disallow: /privacy
+Disallow: /faq
+Disallow: /contactUs
+Disallow: /compliance
+Disallow: /mobile
+Disallow: /account*/
+Disallow: /checkout*/
+Disallow: /browser-not-supported

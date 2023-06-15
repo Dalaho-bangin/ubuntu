@@ -1,0 +1,10 @@
+User-agent: *
+Sitemap: https://dictzone.com/sitemap.xml
+Sitemap: https://dictzone.com/sitemap.xml.gz
+Allow: /
+Disallow: /ordboksforbattring/
+Disallow: /suggestion/
+Disallow: /javaslat/
+Disallow: /cor/
+Disallow: /opr/
+Disallow: /ac/

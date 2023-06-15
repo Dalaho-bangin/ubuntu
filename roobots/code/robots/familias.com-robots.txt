@@ -1,0 +1,10 @@
+User-Agent: * 
+
+Disallow: /images/
+
+Disallow: /api/
+
+
+
+Sitemap: https://familias.com/sitemap_all.xml
+

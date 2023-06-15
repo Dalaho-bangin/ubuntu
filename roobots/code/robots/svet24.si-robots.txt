@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /iskanje
+Disallow: /piskotki
+
+User-agent: Mediapartners-Google
+Disallow:

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow:
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+Sitemap: https://xxxshemaleporn.com/sitemap.xml

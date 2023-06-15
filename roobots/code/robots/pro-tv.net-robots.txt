@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /backup/
+Disallow: /engine/
+Disallow: /forum/
+Disallow: /language/
+Disallow: /user/
+Disallow: /username1111
+
+
+Host: https://www.pro-tv.net/

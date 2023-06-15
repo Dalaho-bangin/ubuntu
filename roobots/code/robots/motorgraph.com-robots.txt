@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /news/articleView.html?idxno=11128
+Sitemap: http://www.motorgraph.com/sitemap/sitemap.xml.gz

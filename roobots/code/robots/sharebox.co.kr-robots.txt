@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap: http:sharebox.co.kr/sitemap.xml

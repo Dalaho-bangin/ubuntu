@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /terms_of_service/
+Disallow: /blog/surfeasy-now-supports-torrent-protection/

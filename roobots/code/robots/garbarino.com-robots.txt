@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /96240715/
+Disallow: /compra/
+Disallow: /carrito
+Disallow: /me/
+Disallow: /user

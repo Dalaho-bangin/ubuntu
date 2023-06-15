@@ -1,0 +1,4 @@
+Disallow: /ping
+Disallow: /health
+
+Allow: /

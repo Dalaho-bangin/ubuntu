@@ -1,0 +1,3 @@
+User-agent: baiduspider
+
+¡¡¡¡Disallow: /http://www.shenchuang.com/www/20170830/514671.shtml

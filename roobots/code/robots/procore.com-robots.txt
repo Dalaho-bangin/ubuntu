@@ -1,0 +1,7 @@
+* User-agent: *
+Disallow: /_mail/
+Disallow: /snapengage/
+Disallow: /allhands/
+Disallow: /build/
+Disallow: /testflight/
+Disallow: /procoreinteractive/

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /all-games
+
+Sitemap: http://www.download-free-games.com/sitemap.xml

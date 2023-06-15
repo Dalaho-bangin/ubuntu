@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /author/
+Disallow: /?*
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: Megalodon
+Disallow: /

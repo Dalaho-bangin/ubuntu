@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /beta
+
+Sitemap: http://www.nawaiwaqt.com.pk/sitemap.xml
+

@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /admin
+Disallow: /Home/PluginVisitAdd
+Disallow: /pluginLink
+
+Allow: /
+
+Sitemap: http://jquery-plugins.net/sitemap.xml
+

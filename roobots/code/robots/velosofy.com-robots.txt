@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://velosofy.com/sitemap.xml
+Disallow:

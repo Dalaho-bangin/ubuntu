@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://www.aerotek.com/sitemap_aerotek_index.xml

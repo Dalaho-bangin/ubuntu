@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /gohd/
+Disallow: /go/
+Disallow: /search/
+Disallow: /user/
+Disallow: /post/
+Disallow: /deal/
+Disallow: /people/
+Disallow: *popcid=
+Disallow: /out/
+Disallow: /detail/
+Disallow: /?*
+
+User-agent: Mediapartners-Google
+Allow: /

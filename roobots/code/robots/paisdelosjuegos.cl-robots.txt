@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /search
+Sitemap: http://paisdelosjuegos.cl/sitemaps/index.xml

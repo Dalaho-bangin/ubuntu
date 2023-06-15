@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /mt/
+
+Sitemap: http://sai-zen-sen.jp/sitemap.xml

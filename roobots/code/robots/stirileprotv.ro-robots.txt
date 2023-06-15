@@ -1,0 +1,5 @@
+User-agent: *
+Allow: / 
+Sitemap: http://stirileprotv.ro/bin/sitemap_images.php
+Sitemap: http://stirileprotv.ro/bin/sitemap_news.php
+Sitemap: http://stirileprotv.ro/bin/sitemap_videos.php

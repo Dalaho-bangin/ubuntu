@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /?*
+
+Disallow: /*ear*
+Disallow: /*ezu*
+
+Disallow: *hp?
+
+Disallow: /ind
+

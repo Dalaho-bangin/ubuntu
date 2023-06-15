@@ -1,0 +1,6 @@
+#linkedin
+User-agent: LinkedInBot
+disallow: /
+#scrapy 
+User-agent: Scrapy
+disallow: /

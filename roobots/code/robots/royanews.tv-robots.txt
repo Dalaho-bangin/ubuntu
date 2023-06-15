@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /img/source/
+Disallow: /img/shared/
+Disallow: /cdn-cgi/
+Disallow: /videos/
+Disallow: /articles/
+Disallow: /writers/
+Disallow: /live_stream
+Disallow: /royanews.tv/
+Disallow: /getmore

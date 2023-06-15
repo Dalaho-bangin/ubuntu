@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /pages/pageNotFound
+Disallow: /jquery
+Disallow: /Content

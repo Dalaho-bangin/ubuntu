@@ -1,0 +1,12 @@
+#
+# robots.txt for MIUCMS V2.05
+#
+
+User-agent: *
+Disallow: /api/
+Disallow: /data/
+Disallow: /so*ce/
+Disallow: /in*ll/
+Disallow: /te*te/
+Disallow: /im*ge/
+Disallow: /ad*in/

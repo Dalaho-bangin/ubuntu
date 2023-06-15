@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /catpagetestviewru.php
+
+User-Agent: Googlebot
+Disallow: /catpagetestviewru.php
+
+User-agent: Yandex
+Disallow: /catpagetestviewru.php
+
+Host: studopedia.ru

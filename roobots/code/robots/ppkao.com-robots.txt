@@ -1,0 +1,5 @@
+﻿User-agent: *
+Disallow: /daan/
+Disallow: /tiku/daan/
+Disallow: /tiku/tle/
+Disallow: /shen/

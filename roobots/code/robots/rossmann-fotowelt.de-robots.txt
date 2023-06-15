@@ -1,0 +1,3 @@
+Sitemap: http://www.rossmann-fotowelt.de/sitemap.xml
+User-Agent: *
+Disallow: 

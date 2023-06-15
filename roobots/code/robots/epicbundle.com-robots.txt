@@ -1,0 +1,2 @@
+# update on generation
+Sitemap: http://www.epicbundle.com/sitemap.xml.gz

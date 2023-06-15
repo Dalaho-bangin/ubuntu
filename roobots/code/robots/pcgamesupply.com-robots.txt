@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /cron-job
+Disallow: /core

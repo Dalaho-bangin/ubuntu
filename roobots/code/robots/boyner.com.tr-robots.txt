@@ -1,0 +1,5 @@
+User-agent: *
+Allow : /
+Disallow: /cart/ 
+Disallow: /product/
+Sitemap:https://statics.boyner.com.tr/bynsitemap/sitemap.xml

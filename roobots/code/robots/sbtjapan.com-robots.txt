@@ -1,0 +1,10 @@
+User-Agent:*
+Disallow:*/ajax/*
+Disallow:*/img/*
+Disallow:*/images/*
+Disallow:*/catalog/request_car/*
+Disallow:*/photolist/*
+Disallow:*/used-cars/zipphostlist/*
+
+Sitemap: http://www.sbtjapan.com/sitemap.xml
+

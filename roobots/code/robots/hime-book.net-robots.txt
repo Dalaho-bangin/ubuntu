@@ -1,0 +1,10 @@
+Sitemap: http://hime-book.net/sitemap.xml
+
+User-agent: *
+Disallow: /wp-admin/
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /location/
+Disallow: /include/
+Disallow: /external/
+Disallow: /class/
+Disallow: /tags/tpls/

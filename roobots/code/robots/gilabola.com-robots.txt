@@ -1,0 +1,4 @@
+Sitemap: http://gilabola.com/sitemap_index.xml
+Sitemap: http://gilabola.com/news-sitemap.xml
+
+User-Agent: *

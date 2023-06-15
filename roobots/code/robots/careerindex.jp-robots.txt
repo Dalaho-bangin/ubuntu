@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /mypage/
+Disallow: /promotion/
+Disallow: /xhr/
+Disallow: /specials/
+Sitemap: http://careerindex.jp/sitemap.xml
+
+User-agent: AhrefsBot
+Disallow: /

@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /currency/
+
+User-agent: Google-HotelAdsVerifier
+Disallow:
+
+User-agent: Google-HotelAdsPrices
+Disallow:
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /

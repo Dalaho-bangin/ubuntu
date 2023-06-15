@@ -1,0 +1,4 @@
+User-Agent: *
+Host: bobsoccer.ru
+
+Disallow: /redirect.php*

@@ -1,0 +1,11 @@
+User-agent: *
+Allow:/
+<%
+}else{
+%>
+User-agent: *
+Disallow:http://www.sogang.ac.kr/bechelor/
+
+<%
+}
+%>

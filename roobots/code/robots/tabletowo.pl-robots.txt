@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.tabletowo.pl/sitemap.xml.gz
+
+User-agent: Jetslide
+Disallow:  /
+
+User-agent: *
+Disallow: /?blackhole
+
+User-agent: okhttp
+Disallow:  /

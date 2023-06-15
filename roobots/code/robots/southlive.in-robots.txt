@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://ml.southlive.in/sitemap.xml

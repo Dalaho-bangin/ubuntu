@@ -1,0 +1,3 @@
+User-Agent: *
+Host: https://www.mp3million.com
+Sitemap: https://www.mp3million.com/sitemap_index.xml

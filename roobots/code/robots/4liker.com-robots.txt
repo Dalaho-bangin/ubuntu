@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /cgi-sys/
+Disallow: /v1/
+Disallow: /v2/

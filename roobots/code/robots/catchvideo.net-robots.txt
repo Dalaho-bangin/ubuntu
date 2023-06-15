@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /adblock
+Disallow: /contact
+Disallow: /fr/contact
+Disallow: /en/contact
+Disallow: /disclamer
+Disallow: /terms

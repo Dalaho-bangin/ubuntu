@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /video/
+
+Host: wikibit.me

@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /report
+Disallow: /export
+Disallow: /user
+Host: https://advodka.com

@@ -1,0 +1,9 @@
+﻿User-agent: *
+Allow: /
+Disallow: /biletleme/
+Disallow: /en/ticketing/
+
+Sitemap: https://www.cinemaximum.com.tr/SeoSitemap/GenerateSitemap
+
+User-agent: MJ12bot
+Disallow: /

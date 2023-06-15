@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /recommends
+Disallow: /search
+Disallow: /feed

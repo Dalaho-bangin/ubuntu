@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /Searchs/
+Disallow: /Users/
+Disallow: /app/
+Disallow: /img/
+Disallow: /status/
+Disallow:/SeenMovies/
+
+Sitemap:https://ciatr.jp/sitemap-index

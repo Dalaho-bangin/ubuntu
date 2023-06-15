@@ -1,0 +1,9 @@
+User-agent: Google
+User-agent: Yandex
+Disallow: /objects/
+Disallow: /people/
+
+
+User-agent: *
+Disallow: /objects/
+Disallow: /people/

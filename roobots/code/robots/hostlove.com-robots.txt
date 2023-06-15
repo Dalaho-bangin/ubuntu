@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /api/
+
+User-agent: *
+Disallow: /jump/
+
+User-agent: baiduspider
+Disallow: /
+
+User-agent: *
+Disallow: /search

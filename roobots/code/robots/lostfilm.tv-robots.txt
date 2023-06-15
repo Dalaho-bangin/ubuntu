@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /privacy
+Disallow: /eula
+Host: www.lostfilm.tv

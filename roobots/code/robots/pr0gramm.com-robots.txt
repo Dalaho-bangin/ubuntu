@@ -1,0 +1,3 @@
+# DAS PROGRAMM MAG DICH <3
+User-agent: *
+Allow: /static/

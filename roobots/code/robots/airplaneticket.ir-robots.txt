@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://airplaneticket.ir/sitemap.xml

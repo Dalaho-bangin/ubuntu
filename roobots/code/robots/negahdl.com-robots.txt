@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: http://www.negahdl.com/sitemap.xml
+Sitemap: http://www.negahdl.com/sitemap-mobile.xml
+
+

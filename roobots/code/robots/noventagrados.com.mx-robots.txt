@@ -1,0 +1,13 @@
+Sitemap: https://www.noventagrados.com.mx/rss.php
+
+User-agent: *
+Allow: /
+
+User-agent: facebookexternalhit/1.1
+Allow: /
+
+User-agent: facebookexternalhit/1.1
+Allow: /
+
+User-agent: Facebot
+Allow: /

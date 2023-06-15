@@ -1,0 +1,6 @@
+User-agent: *
+Allow:/service/board/
+Allow:/service/group/
+Disallow:/service/mypage/
+Disallow:/service/message/
+Disallow:/service/popup/

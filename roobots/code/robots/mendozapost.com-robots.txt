@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /tools/hit.php
+Disallow: /nota/ajax/
+Disallow: /nota/readingList/
+Disallow: /pieces/poll/

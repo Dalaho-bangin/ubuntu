@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /*index.php?action=kitsitemap;xml
+
+sitemap: http://gnoccaforum.com/escort/index.php?action=kitsitemap;xml

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: index.php?page=post&s=view&id=213234
+Disallow: /public
+Disallow: /images
+
+User-agent: msnbot
+Crawl-delay: 10

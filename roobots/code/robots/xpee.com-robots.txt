@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /codeIgniter_1.7.2/
+Disallow: /system/
+Disallow: /apc/
+Disallow: /stars.html
+Disallow: /video/report/
+Disallow: /thumbs/

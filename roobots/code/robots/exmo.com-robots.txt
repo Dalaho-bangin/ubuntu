@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /reg
+Disallow: /*/reg
+Disallow: /*?ref=
+Sitemap: https://exmo.com/sitemap.xml

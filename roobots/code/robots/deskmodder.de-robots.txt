@@ -1,0 +1,3 @@
+User-agent: * 
+Disallow: /.gumfuzi/
+Disallow: /phpBB3/impressum.php

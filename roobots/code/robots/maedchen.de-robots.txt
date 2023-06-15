@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.maedchen.de/sitemap.xml

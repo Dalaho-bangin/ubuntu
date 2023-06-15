@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /append.asp?
+Disallow: /edit.asp?*
+Allow: /
+
+Sitemap: https://www.nedir.com/sitemap/sitemap.xml

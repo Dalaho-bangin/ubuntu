@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /apanel
+Disallow: /ajax
+Disallow: /alogin
+Disallow: /prve
+Disallow: /banner
+Disallow: /showad
+Disallow: /showad/c.php
+Disallow: /showad/click
+Disallow: /click
+
+User-agent: AdsBot-Google 
+Disallow: /click
+Disallow: /showad
+
+Sitemap: https://anetwork.ir/sitemap_index.xml

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /Admin
+
+<FilesMatch "\.xml$">
+Header set X-Robots-Tag "noindex"
+</Files>

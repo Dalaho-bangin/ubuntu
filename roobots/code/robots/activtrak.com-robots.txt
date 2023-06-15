@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /tag/
+Disallow: /page/
+Host: activtrak.com
+
+Sitemap: http://activtrak.com/sitemap.xml

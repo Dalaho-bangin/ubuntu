@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /help/
+Disallow: /aboutus
+Disallow: /contactus
+Disallow: /fangke/

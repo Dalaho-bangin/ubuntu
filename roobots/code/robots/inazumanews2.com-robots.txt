@@ -1,0 +1,5 @@
+#Common
+User-agent: Googlebot-Image
+Disallow: /
+
+Sitemap:http://inazumanews2.com/sitemap.xml

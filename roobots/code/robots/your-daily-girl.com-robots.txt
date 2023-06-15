@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:/?s=
+Disallow:/wp-includes/
+Sitemap: http://your-daily-girl.com/sitemapindex.xml

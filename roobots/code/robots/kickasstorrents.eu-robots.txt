@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /data/
+
+Sitemap: https://kickasstorrents.eu/sitemap.xml

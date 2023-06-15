@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /catalogsearch/
+Disallow: /ajax/
+Disallow: /catalog/product/gallery/
+Disallow: /sendfriend/
+Disallow: /wishlist/
+Disallow: /checkout/
+Disallow: /quickview/
+Disallow: /catalog/product/upload/

@@ -1,0 +1,2 @@
+Sitemap: http://named.com/sitemap.xml
+

@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /myalerts.php
+Disallow: /login
+Disallow: /reactivate
+Disallow: /signup
+Disallow: /contact
+Disallow: /forgot-password
+Disallow: /comments
+Disallow: /landing
+Disallow: /exports
+Disallow: /gallerypopup
+Disallow: /cam
+Disallow: /*pagenum
+Disallow: /search
+Disallow: /*langchoice
+Disallow: /*sort_
+Disallow: /webcam

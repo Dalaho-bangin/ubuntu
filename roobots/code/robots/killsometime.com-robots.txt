@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://www.killsometime.com/sitemap
+Sitemap: http://www.killsometime.com/videositemap

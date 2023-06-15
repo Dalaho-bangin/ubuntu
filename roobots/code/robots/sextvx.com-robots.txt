@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cast
+Disallow: /increment/
+Disallow: /api/
+Disallow: /*/stream/
+Disallow: /cc
+Disallow: /ajax
+
+Host: www.sextvx.com
+

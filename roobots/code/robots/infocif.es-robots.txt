@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /gestion/
+Disallow: /empresas-vinculadas/
+Disallow: /cargos-administrador/
+Disallow: /landing/
+Disallow: /catalogo-productos/

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /*.swf$
+Sitemap: https://www.online-calculator.com/sitemap.xml

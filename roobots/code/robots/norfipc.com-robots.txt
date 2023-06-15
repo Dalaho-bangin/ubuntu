@@ -1,0 +1,9 @@
+# Google AdSense
+User-agent: Mediapartners-Google
+Disallow:
+
+# global
+User-agent: * 
+Disallow: /email/
+Disallow: /ftp/
+Sitemap: https://norfipc.com/sitemap.xml

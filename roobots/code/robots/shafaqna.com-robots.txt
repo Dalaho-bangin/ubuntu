@@ -1,0 +1,9 @@
+<html> 
+<head> 
+<title>404</title> 
+<meta http-equiv="REFRESH" content="0;url=http://shafaqna.com"> 
+</head> 
+<body> 
+<center>This page is not found!</center>
+</body> 
+</html>

@@ -1,0 +1,3 @@
+Sitemap: https://vistahigherlearning.com/pub/media/sitemap.xml
+Sitemap: https://vistahigherlearning.com/pub/media/highered_sitemap.xml
+Sitemap: https://vistahigherlearning.com/pub/media/secondary_sitemap.xml

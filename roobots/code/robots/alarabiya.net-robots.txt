@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /.magnolia
+Allow: /
+
+Sitemap: http://www.alarabiya.net/sitemap.xml.gz

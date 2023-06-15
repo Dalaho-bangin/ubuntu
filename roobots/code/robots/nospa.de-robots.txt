@@ -1,0 +1,7 @@
+﻿# Refuse all robots from these directories:
+User-agent: *
+https://www.nospa.de/sitemap.xml
+
+
+
+

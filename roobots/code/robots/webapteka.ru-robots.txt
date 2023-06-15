@@ -1,0 +1,9 @@
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Mediapartners-Google
+Disallow:
+Crawl-delay: 10
+
+User-agent: *
+Disallow: /

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+sitemap: http://games.mi9.com/sitemaps.xml

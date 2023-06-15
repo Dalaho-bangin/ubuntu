@@ -1,0 +1,4 @@
+User-agent:*
+Allow:/
+Sitemap:http://www.mop.com/sitemap.xml
+disallow:/http://help.mop.com/sitemap.jsp

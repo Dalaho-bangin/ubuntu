@@ -1,0 +1,9 @@
+User-agent: 008
+Disallow: /
+
+User-agent: *
+Disallow: /wp-admin/
+
+Sitemap: https://cookieandkate.com/sitemap_index.xml
+
+# flywheel permissions test

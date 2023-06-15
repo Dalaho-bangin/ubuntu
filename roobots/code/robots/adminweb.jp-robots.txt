@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow:
+
+User-agent: Updownerbot
+Disallow: /
+
+Sitemap: https://www.adminweb.jp/sitemap.xml
+Sitemap: http://www.adminweb.jp/sitemap_http.xml

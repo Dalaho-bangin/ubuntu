@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.gunsinternational.com/sitemap.xml
+Sitemap: http://www.gunsinternational.com/sitemap2.xml
+Sitemap: http://www.gunsinternational.com/sitemap3.xml
+Sitemap: http://www.gunsinternational.com/sitemap4.xml

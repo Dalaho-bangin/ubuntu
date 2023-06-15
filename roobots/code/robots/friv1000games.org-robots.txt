@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /public/files/
+
+Host: www.friv1000games.org

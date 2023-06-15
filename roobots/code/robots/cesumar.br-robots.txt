@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /servicemanager
+Disallow: /servicemanager/

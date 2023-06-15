@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /search/*
+Sitemap: http://www.atriushealth.org/sitemap.xml

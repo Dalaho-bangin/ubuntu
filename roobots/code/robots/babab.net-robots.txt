@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /out/
+Disallow: /widget/
+Disallow: /contact/
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /criteo300/

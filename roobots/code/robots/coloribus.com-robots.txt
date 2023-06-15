@@ -1,0 +1,12 @@
+Sitemap: https://www.coloribus.com/sitemap.xml
+
+User-Agent: *
+Disallow: /profile/*
+Disallow: /user/signup/
+Disallow: /user/signup/*
+Disallow: /i/*
+Disallow: /ajax/i/*
+Allow: /
+
+User-agent: sistrix
+Disallow: /

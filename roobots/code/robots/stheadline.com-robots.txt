@@ -1,0 +1,7 @@
+User-agent: *
+disallow: /images/
+disallow: /include/
+disallow: /archive/
+disallow: /members/
+disallow: /membership/
+disallow: news-search.php

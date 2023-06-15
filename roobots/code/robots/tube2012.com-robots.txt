@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /rte/
+Disallow: /st/

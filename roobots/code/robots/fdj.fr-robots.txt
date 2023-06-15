@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /oad/
+Disallow: /idmatch/
+Disallow: /mobiles/
+Disallow: /*.pdf$
+Disallow: /*?
+Sitemap: https://www.fdj.fr/sitemap.xml

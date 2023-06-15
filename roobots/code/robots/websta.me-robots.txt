@@ -1,0 +1,10 @@
+Sitemap: https://websta.me/sitemap.xml
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /p/
+
+User-agent: SemrushBot-SA
+Disallow: /

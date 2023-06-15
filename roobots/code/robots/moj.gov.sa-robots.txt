@@ -1,0 +1,6 @@
+User-agent: *
+
+
+
+
+Sitemap: https://www.moj.gov.sa:443/sitemap.xml

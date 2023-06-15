@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: http://pornmaki.com/sitemaps/index.xml
+
+User-agent: *
+Disallow: /*?

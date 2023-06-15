@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /contact/*
+Disallow: /membri/*
+Disallow: /termeni-si-conditii.html
+Disallow: /despre-cookie.html
+Noarchive: /
+Sitemap: https://www.regielive.ro/sitemap.xml.gz

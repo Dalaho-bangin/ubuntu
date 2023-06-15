@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /adm/
+Disallow: /core/
+Disallow: /media/
+Disallow: /templates/

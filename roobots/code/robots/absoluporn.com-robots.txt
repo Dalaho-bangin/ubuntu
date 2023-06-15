@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /fr/video3-*
+Disallow: /en/video3-*

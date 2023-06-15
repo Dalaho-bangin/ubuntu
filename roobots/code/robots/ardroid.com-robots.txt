@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /oauth/
+
+Sitemap: http://ardroid.com/sitemap_index.xml
+

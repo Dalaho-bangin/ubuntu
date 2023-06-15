@@ -1,0 +1,3 @@
+User-agent: Googlebot
+
+Disallow: /damevideos.php?v=*

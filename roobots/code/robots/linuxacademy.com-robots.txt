@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /cp/login/forgot
+Disallow: /cp/login/forgotUsername
+Disallow: /cp/login?*
+Disallow: /accenture
+Disallow: /msft
+Disallow: /aws-serve
+Disallow: /aws-serve/teams

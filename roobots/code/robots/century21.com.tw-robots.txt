@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+sitemap: http://a76569.hostedsitemaps.com/3939352/sitemap.xml.gz

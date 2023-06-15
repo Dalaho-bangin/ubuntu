@@ -1,0 +1,12 @@
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Pcore-HTTP
+Disallow: /
+
+User-Agent: *
+Disallow: /~msoms/
+Disallow: post_thanks.php?do=findallthanks
+Disallow: /forum/
+Disallow: /wiki/
+

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /publisher/widget
+Disallow: /rates
+Disallow: /custom/vrbo
+Disallow: /custom/homeaway
+Disallow: /custom/homeaway_intl

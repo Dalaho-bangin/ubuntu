@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-content/uploads
+
+Sitemap: http://www.traicy.com/sitemap_index.xml

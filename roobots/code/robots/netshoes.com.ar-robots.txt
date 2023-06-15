@@ -1,0 +1,13 @@
+User-agent: *
+
+Allow: /busca?*q=
+Disallow: /busca*?q=
+Disallow: /*q=
+Disallow: /account/
+Disallow: /cart/
+Disallow: /login/
+Disallow: /checkout/
+
+User-agent: Mediapartners-Google
+
+Allow: /

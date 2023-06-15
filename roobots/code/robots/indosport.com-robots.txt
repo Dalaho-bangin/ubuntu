@@ -1,0 +1,5 @@
+Sitemap: http://www.indosport.com/sitemap.xml
+User-agent: Twitterbot
+Disallow: 
+User-agent: *
+Allow: /

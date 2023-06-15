@@ -1,0 +1,10 @@
+User-agent: *
+# Directories
+Disallow: /Admin/
+Disallow: /App_Themes/
+Disallow: /AuthMembers/
+Disallow: /SkinMasters/
+
+User-Agent: Googlebot
+Disallow: /Default.aspx?PageID=201
+Disallow: /Default.aspx?PageID=391

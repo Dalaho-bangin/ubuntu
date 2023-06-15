@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /appli/
+Disallow: /appli/bigmo/
+Disallow: /bigmo/serviceProgram/

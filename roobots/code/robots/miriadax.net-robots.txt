@@ -1,0 +1,15 @@
+User-Agent: *
+Allow: /web/general-navigation/home
+Disallow: /*/web
+Disallow: /*/documents
+Disallow: /documents/*
+Disallow: /blog/*
+Disallow: /es/blog/*
+Disallow: /image/*
+Disallow: /*/group
+Disallow: /*/mi-red
+Disallow: /*/mi-pagina
+Disallow: /*/mi-perfil
+Disallow: /*/my-places
+Disallow: /*/cursos
+

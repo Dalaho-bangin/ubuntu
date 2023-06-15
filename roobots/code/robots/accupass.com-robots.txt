@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /event/1708081058371536446831
+Allow: /

@@ -1,0 +1,4 @@
+robots.txt for http://www.goaltycoon.com/
+
+User-agent: *
+Noindex: /bestfootballgame/

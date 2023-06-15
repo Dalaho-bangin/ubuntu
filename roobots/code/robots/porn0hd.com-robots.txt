@@ -1,0 +1,6 @@
+User-Agent: *
+Host: porn0hd.com
+Sitemap: http://porn0hd.com/sitemap.xml
+
+
+Disallow: /links.php

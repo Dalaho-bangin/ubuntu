@@ -1,0 +1,4 @@
+User-agent: *
+
+Disallow: /*?*aff=
+Disallow: /*?*a_aid=

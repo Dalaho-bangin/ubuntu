@@ -1,0 +1,9 @@
+#User-agent: *
+#Disallow:
+
+User-agent: *
+Allow: /
+Sitemap: https://bensbargains.com/sitemap/sitemap-base.gz
+
+User-agent: 008
+Disallow: /

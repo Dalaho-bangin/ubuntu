@@ -1,0 +1,15 @@
+User-agent: * 
+Disallow: /plus/*
+Disallow: /include/*
+Disallow: /templets/*
+Disallow: /images/*
+Disallow: /tags.php*
+Disallow: /news/*
+Disallow:/wap.php*
+
+
+
+
+
+
+

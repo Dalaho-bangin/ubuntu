@@ -1,0 +1,12 @@
+User-agent: Yandex
+Disallow: /ru/?locale=en
+Disallow: /su/*
+Disallow: /ru/?locale=ru
+Disallow: */?*
+Host: https://www.fonbet.com
+
+User-agent: *
+Disallow: /ru/?locale=en
+Disallow: /su/*
+Disallow: /ru/?locale=ru
+Disallow: */?*

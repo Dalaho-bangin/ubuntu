@@ -1,0 +1,9 @@
+User-agent: Cliqzbot
+Disallow: / 
+
+User-agent: *
+Disallow: /assets/
+Disallow: /extension/
+Disallow: /images/
+Disallow: /system/
+Sitemap: https://www.searchlock.com/sitemap.xml

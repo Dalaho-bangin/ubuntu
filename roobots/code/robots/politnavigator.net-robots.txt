@@ -1,0 +1,6 @@
+User-agent: Yandex
+Allow: /yandex/news/
+Crawl-delay: 2
+
+User-agent: *
+Disallow: /wp-admin/

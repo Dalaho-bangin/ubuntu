@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /send.php
+Disallow: /print.php
+
+Sitemap: https://frognews.bg/sitemap/sitemap.xml

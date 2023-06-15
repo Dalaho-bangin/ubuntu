@@ -1,0 +1,6 @@
+User-agent: Yandex
+Allow: /products/
+Disallow: /
+
+User-agent: * 
+Allow: /

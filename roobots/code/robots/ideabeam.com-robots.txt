@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /jump/
+Disallow: /out/
+
+Sitemap: http://www.ideabeam.com/sitemap.xml

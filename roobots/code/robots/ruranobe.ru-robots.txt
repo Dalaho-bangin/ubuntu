@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /user
+Disallow: /a/*
+Disallow: /d/*
+Disallow: /cgn-cgi/*
+
+Host: ruranobe.ru

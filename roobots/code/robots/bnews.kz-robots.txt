@@ -1,0 +1,6 @@
+User-Agent: *
+Useragent: Yandexbot
+Disallow: *?*
+Disallow: *utm_source*
+Host: https://bnews.kz
+Sitemap: https://bnews.kz/sitemap.xml
